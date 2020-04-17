@@ -1,8 +1,10 @@
 FROM alpine:latest
 
-VOLUME /volume/configuration
+ENV IMAPFILTER_HOME=/volume/configuration
 
-WORKDIR /volume/configuration
+VOLUME ${IMAPFILTER_HOME}
+
+WORKDIR ${IMAPFILTER_HOME}
 
 RUN set -xe \
 	&& addgroup --gid 2000 app \
