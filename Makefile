@@ -14,4 +14,4 @@ run:
 		--rm \
 		--security-opt label=disable \
 		--name=${IMAGE} \
-		local/imapfilter
+		local/${IMAGE}
