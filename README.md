@@ -1,4 +1,4 @@
-[![Docker Pulls](https://img.shields.io/docker/pulls/eikendev/imapfilter-docker)](https://hub.docker.com/r/eikendev/imapfilter-docker)
+[![Docker Pulls](https://img.shields.io/docker/pulls/eikendev/imapfilter)](https://hub.docker.com/r/eikendev/imapfilter)
 
 # About
 
