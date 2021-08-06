@@ -1,5 +1,3 @@
-[![Docker Pulls](https://img.shields.io/docker/pulls/eikendev/imapfilter)](https://hub.docker.com/r/eikendev/imapfilter)
-
 # About
 
 This image runs [imapfilter](https://github.com/lefcha/imapfilter), a tool for email filtering.
