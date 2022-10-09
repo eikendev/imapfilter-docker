@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:edge
 
 ENV IMAPFILTER_HOME=/volume/configuration
 
